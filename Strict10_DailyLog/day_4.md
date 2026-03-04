@@ -1,0 +1,11 @@
+1582 Special Positions in a Binary Matrix
+
+STATUS
+
+OPTIMISED:
+COPIED:1582
+ACCEPTED:
+ERROR :
+SOLVED :
+BACKLOG :
+ALREADY DONE:
