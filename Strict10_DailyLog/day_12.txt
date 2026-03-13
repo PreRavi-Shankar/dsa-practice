@@ -1,0 +1,15 @@
+DAY 12 — Trees (DFS, BST, Hard)
+Block 1
+
+Validate BST (#98)
+Lowest Common Ancestor of BST (#235)
+Kth Smallest in BST (#230)
+
+Block 2
+4. Binary Tree Maximum Path Sum (#124)
+5. Construct BT from Preorder+Inorder (#105)
+6. Serialize and Deserialize Binary Tree (#297)
+Block 3
+7. Diameter of Binary Tree (#543)
+8. Path Sum III (#437)
+9. Flatten BT to Linked List (#114)
