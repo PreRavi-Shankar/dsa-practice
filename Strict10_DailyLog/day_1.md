@@ -1,24 +1,24 @@
 DAY 1 — Strings (Easy + Medium)
 LeetCode Block 1 (warm-up)
 
-Valid Palindrome (#125)
-Reverse String (#344)
-First Unique Character in a String (#387)
+Valid Palindrome (#125) DONE
+Reverse String (#344) DONE
+First Unique Character in a String (#387) DONE
 
 LeetCode Block 2 (core)
 
-Longest Common Prefix (#14)
-Valid Anagram (#242)
-Group Anagrams (#49)
-Longest Substring Without Repeating Characters (#3)
+Longest Common Prefix (#14) DONE
+Valid Anagram (#242) DONE
+Group Anagrams (#49) DONE
+Longest Substring Without Repeating Characters (#3) DONE
 
 LeetCode Block 3 (push)
 
-String to Integer - Atoi (#8)
-Count and Say (#38)
+String to Integer - Atoi (#8) DONE
+Count and Say (#38) DONE
 
 Streak Question
-(#1536) Minimum Swaps to Arrange a Binary Grid
+(#1536) Minimum Swaps to Arrange a Binary Grid copied
 
 STATUS
 
