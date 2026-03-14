@@ -1,11 +1,25 @@
-/\*DAY 11 — Trees (BFS + Basic DFS)
+DAY 11 — Trees (BFS + Basic DFS)
 Block 1
 
-Invert Binary Tree (#226) done
-Maximum Depth of Binary Tree (#104) done
-Symmetric Tree (#101) done
+Invert Binary Tree (#226) Done
+Maximum Depth of Binary Tree (#104) Done
+Symmetric Tree (#101) Done
 
-Block 2 4. Level Order Traversal (#102) done 5. Binary Tree Zigzag Level Order (#103) done 6. Populating Next Right Pointers (#116) 7. Average of Levels in Binary Tree (#637)
-Block 3 8. Binary Tree Right Side View (#199) 9. Cousins in Binary Tree (#993)
+Block 2
+4. Level Order Traversal (#102) Done
+5. Binary Tree Zigzag Level Order (#103) Done
+6. Populating Next Right Pointers (#116) Done
+7. Average of Levels in Binary Tree (#637) Done 
+Block 3
+8. Binary Tree Right Side View (#199) Done
+9. Cousins in Binary Tree (#993) Done
 
-1009 daily question done\*/
+STATUS
+
+OPTIMISED:
+Taken Help:All
+ACCEPTED:All
+ERROR :
+SOLVED :
+BACKLOG :
+ALREADY DONE:
