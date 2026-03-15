@@ -1,0 +1,16 @@
+DAY 2 — Strings (Medium + Hard)
+Block 1
+
+1. Palindrome Substrings (#647)
+2. Longest Palindromic Substring (#5)
+3. Minimum Window Substring (#76)
+
+Block 2
+4. Word Break (#139)
+5. Decode Ways (#91)
+6. Encode and Decode Strings (#271)
+
+Block 3
+7. Find All Anagrams in a String (#438)
+8. Zigzag Conversion (#6)
+9. Multiply Strings (#43)
