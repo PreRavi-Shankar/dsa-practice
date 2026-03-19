@@ -1,8 +1,8 @@
 DAY 2 — Strings (Medium + Hard)
 Block 1
 
-1. Palindrome Substrings (#647)
-2. Longest Palindromic Substring (#5)
+1. Palindrome Substrings (#647) Done
+2. Longest Palindromic Substring (#5) 
 3. Minimum Window Substring (#76)
 
 Block 2
